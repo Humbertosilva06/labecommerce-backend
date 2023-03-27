@@ -1,0 +1,21 @@
+{
+  "name": "labecommerce-backend",
+  "version": "1.0.0",
+  "description": "projeto do modulo 03 backend do bootcamp Labenu",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Humbertosilva06/labecommerce-backend.git"
+  },
+  "author": "Humberto de Oliveira Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Humbertosilva06/labecommerce-backend/issues"
+  },
+  "homepage": "https://github.com/Humbertosilva06/labecommerce-backend#readme"
+}
