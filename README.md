@@ -12,7 +12,7 @@ Desenvolvida para integrar conhecimentos de:
  * tipagem 
  * validação de dados 
  
-Para saber mais sobre a API e ver todos os Endpoint e suas funcionalidades, acesse <https://documenter.getpostman.com/view/24823043/2s93XsXRfn>
+Para saber mais sobre a API e ver todos os Endpoint e suas funcionalidades, acesse: <https://documenter.getpostman.com/view/24823043/2s93XsXRfn>
 
 
 
