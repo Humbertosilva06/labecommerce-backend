@@ -9,9 +9,14 @@ Desenvolvida para integrar conhecimentos de:
 Typescript*
 
 Express*
+
 configurações node, package.json, tsconfig*
+
 criação de types*
+
 tipagem*
+
 validação de dados*
+
 
 
