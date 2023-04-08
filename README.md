@@ -6,17 +6,12 @@ Labecommerce é uma Api criada para o projeto backend do Bootcamp Labenu.
 
 Desenvolvida para integrar conhecimentos de:
 
-Typescript*
-
-Express*
-
-configurações node, package.json, tsconfig*
-
-criação de types*
-
-tipagem*
-
-validação de dados*
+Typescript *
+Express *
+configurações node, package.json, tsconfig *
+criação de types *
+tipagem *
+validação de dados *
 
 
 
