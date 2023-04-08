@@ -14,6 +14,12 @@ export const users: TUser[] = [
         email: "josé@gmail.com",
         password: "54321"
     },
+    {
+        id:"u003",
+        name: "Rafaela",
+        email: "rafaela@email.com",
+        password:"11223344"
+    }
 
 
 ]
@@ -34,6 +40,12 @@ export const products: TProduct[] = [
         price: 150,
         category: CATEGORY.CLOTHES_AND_SHOES
 
+    },
+    {
+        id:"P003",
+        name:"Boné Masculino",
+        price: 75.63,
+        category:CATEGORY.ACCESSORIES
     }
 ]
 
